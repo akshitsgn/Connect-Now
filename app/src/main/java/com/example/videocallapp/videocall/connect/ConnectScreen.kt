@@ -28,7 +28,7 @@ fun ConnectScreen(
             .padding(16.dp)
     ) {
         Text(
-            text = "Choose a name",
+            text = "Choose a name:",
             fontSize = 18.sp
         )
         Spacer(modifier = Modifier.height(16.dp))
